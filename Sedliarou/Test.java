@@ -24,3 +24,6 @@ public class Example {
 }
 
 class Another {
+
+    System.out.println("");
+    
