@@ -26,5 +26,12 @@ public class Example {
 class Another {
 
     System.out.println("");
+<<<<<<< Updated upstream
     
     // Привет от коллеги!!
+=======
+
+    System.out.println("");
+    
+    
+>>>>>>> Stashed changes
