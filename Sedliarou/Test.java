@@ -27,3 +27,4 @@ class Another {
 
     System.out.println("");
     
+    // Привет от коллеги!!
